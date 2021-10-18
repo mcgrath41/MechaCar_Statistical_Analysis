@@ -5,4 +5,10 @@ As seen in the screen shot below, the ground_clearance and vehicle_length provid
 
 ![](/Resources/Deliverable1.png)
 
-Across the suspension coil manufacturing lots, Lot 1 and Lot 2 are both within design specifications, and both have the same calculated mean and median. However, Lot 3 is far more variable than the other manufacturing lots. Lot 3 has a calculated variance that exceeds the manufacturing specs. If we combine all three lots and look at the total data, the overall calculated variance is within specifications.
+## Summary Statistics on Suspension Coils
+As evidenced in the screen shots below, Lot 1 & Lot 2 are both within design specifications and have the same mean & median values. Lot 3, however, has far more variance with a calculated value of ~170 that exceeds manufacturing specs. If all three lots are combined and summarized on a total basis, the overall calculated variance is within specifications (~62).  
+
+![](/Resources/Deliverable2a.png)
+
+![](/Resources/Deliverable2b.png)
+
