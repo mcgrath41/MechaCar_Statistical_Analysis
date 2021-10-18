@@ -13,4 +13,6 @@ As evidenced in the screen shots below, Lot 1 & Lot 2 are both within design spe
 ![](/Resources/Deliverable2b.png)
 
 ## T-Tests on Suspension Coils
-According to each of the one-sample t-tests, Lot 1 and Lot 2 PSI values are not statistically different from the population mean. However the p-value of Lot 3 is 0.041 which is below the significance level, which means there is evidence that the Lot 3 mean suspension coil PSI is statistically different from the population mean.
+As seen in the screen shot of the one-sample t-tests below, Lot 1 & Lot 2 PSI values are statistically different from the mean of the population. The p-value of Lot 3, however, is 0.04168, which is below the signficance level. This suggests that the Lot 3 mean suspension coil PSI is statistically different from the population mean. 
+
+![](/Resources/Deliverable3.png)
